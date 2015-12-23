@@ -1,0 +1,23 @@
+﻿@using damacana.Models
+@model List<damacana.Models.Product>
+@using System.Collections.Generic
+@{
+    ViewBag.Title = "Show Cart";
+}
+
+<h2>Cart</h2>
+    <br>
+
+                @foreach (var p in Model)
+                {
+                    <p>@p.Name</p>
+                    <p>@p.Price TL</p>
+                    <p><a href="@Url.Action("DeleteFromCart", new { Name = p.Name})">Delete</a></p>
+                <br />
+                }
+<left>
+    <a class="btn btn-default" href="@Url.Action("Purchase","Purchases", new { x = Model })"><b>Purchase &raquo;</b></a>
+    <br />
+    <b>Only for a total of:    @Model.Sum(item => item.Price)TL</b>
+</left>
+

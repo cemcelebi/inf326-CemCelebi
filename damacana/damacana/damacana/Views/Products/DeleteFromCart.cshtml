@@ -1,0 +1,14 @@
+﻿@using damacana.Models
+@model damacana.Models.Product
+@{
+    ViewBag.Title = "DeleteFromCart";
+}
+
+<h2>DeleteFromCart</h2>
+product deleted successfully
+<br />
+<nav>
+                <ul class="pager">
+                <li><a href="@Url.Action("ShowCart","Products")">Back to Cart</a></li>
+                </ul>
+</nav>
