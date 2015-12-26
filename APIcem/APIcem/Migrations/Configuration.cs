@@ -5,7 +5,7 @@
     using System.Data.Entity.Migrations;
     using System.Linq;
     using APIcem.Models;
-    internal sealed class Configuration : DbMigrationsConfiguration<APIcem.Models.damacanaapiContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<APIcem.Models.APIcemContext>
     {
         public Configuration()
         {
