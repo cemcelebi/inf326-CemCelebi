@@ -30,7 +30,7 @@
        new Product() { Id = 1, Name = "Erikli", Price = 5 },
        new Product() { Id = 2, Name = "Pinar", Price = 5 },
        new Product() { Id = 4, Name = "Sirma", Price = 5 },
-             new Product() { Id = 3, Name = "Sirma19", Price = 5 });
+       new Product() { Id = 3, Name = "Sirma19", Price = 5 });
         }
     }
 }
