@@ -26,6 +26,7 @@ namespace APIcem.Models
         public System.Data.Entity.DbSet<APIcem.Models.Purchase> Purchases { get; set; }
 
         public System.Data.Entity.DbSet<APIcem.Models.User> Users { get; set; }
+        public System.Data.Entity.DbSet<APIcem.Models.CartDTO> CartDTOes { get; set; }
     
     }
 }
