@@ -46,6 +46,9 @@
     <Reference Include="Microsoft.Data.OData, Version=5.6.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Data.OData.5.6.0\lib\net40\Microsoft.Data.OData.dll</HintPath>
     </Reference>
+    <Reference Include="Swashbuckle.Core">
+      <HintPath>..\packages\Swashbuckle.Core.5.2.2\lib\net40\Swashbuckle.Core.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -114,6 +117,12 @@
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
+    <Reference Include="WebActivator">
+      <HintPath>..\packages\WebActivator.1.5.3\lib\net40\WebActivator.dll</HintPath>
+    </Reference>
+    <Reference Include="WebActivatorEx">
+      <HintPath>..\packages\WebActivatorEx.2.1.0\lib\net40\WebActivatorEx.dll</HintPath>
+    </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
       <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
@@ -179,6 +188,7 @@
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="App_Start\SwaggerConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Areas\HelpPage\ApiDescriptionExtensions.cs" />
     <Compile Include="Areas\HelpPage\App_Start\HelpPageConfig.cs" />
@@ -221,12 +231,22 @@
     <Compile Include="Migrations\201512261512306_Initial.Designer.cs">
       <DependentUpon>201512261512306_Initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201512291249200_newDescField.cs" />
+    <Compile Include="Migrations\201512291249200_newDescField.Designer.cs">
+      <DependentUpon>201512291249200_newDescField.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201512292259282_crossTableUyumlu.cs" />
+    <Compile Include="Migrations\201512292259282_crossTableUyumlu.Designer.cs">
+      <DependentUpon>201512292259282_crossTableUyumlu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\APIcemContext.cs" />
     <Compile Include="Models\Cart.cs" />
     <Compile Include="Models\CartDTO.cs" />
+    <Compile Include="Models\forPurchase.cs" />
+    <Compile Include="Models\inCart.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Models\Purchase.cs" />
     <Compile Include="Models\Product.cs" />
@@ -276,7 +296,23 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
-    <Content Include="Web.config" />
+    <Content Include="SwaggerUI\css\screen.css" />
+    <Content Include="SwaggerUI\images\pet_store_api.png" />
+    <Content Include="SwaggerUI\images\wordnik_api.png" />
+    <Content Include="SwaggerUI\index.html" />
+    <Content Include="SwaggerUI\lib\backbone-min.js" />
+    <Content Include="SwaggerUI\lib\handlebars.runtime-1.0.0.beta.6.js" />
+    <Content Include="SwaggerUI\lib\jquery.ba-bbq.min.js" />
+    <Content Include="SwaggerUI\lib\jquery.min.js" />
+    <Content Include="SwaggerUI\lib\jquery.slideto.min.js" />
+    <Content Include="SwaggerUI\lib\jquery.wiggle.min.js" />
+    <Content Include="SwaggerUI\lib\swagger.js" />
+    <Content Include="SwaggerUI\lib\underscore-min.js" />
+    <Content Include="SwaggerUI\swagger-ui.js" />
+    <Content Include="SwaggerUI\swagger-ui.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -306,6 +342,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201512261512306_Initial.resx">
       <DependentUpon>201512261512306_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201512291249200_newDescField.resx">
+      <DependentUpon>201512291249200_newDescField.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201512292259282_crossTableUyumlu.resx">
+      <DependentUpon>201512292259282_crossTableUyumlu.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

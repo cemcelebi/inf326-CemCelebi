@@ -23,12 +23,7 @@ namespace APIcem.Models
         public DateTime CreatedOn { get; set; }
 
         public virtual User User { get; set; }
-
+        
     }
-    public class PurchaseDBContext : DbContext
-    {
-        public DbSet<Purchase> Purchases { get; set; }
-
-        public System.Data.Entity.DbSet<APIcem.Models.User> Users { get; set; }
-    }
+ 
 }
