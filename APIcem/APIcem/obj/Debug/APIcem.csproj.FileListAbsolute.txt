@@ -194,3 +194,5 @@ C:\Users\Cem\Documents\GitHub\inf326-CemCelebi\APIcem\APIcem\bin\zh-Hant\System.
 C:\Users\Cem\Documents\GitHub\inf326-CemCelebi\APIcem\APIcem\obj\Debug\APIcem.csprojResolveAssemblyReference.cache
 C:\Users\Cem\Documents\GitHub\inf326-CemCelebi\APIcem\APIcem\obj\Debug\APIcem.dll
 C:\Users\Cem\Documents\GitHub\inf326-CemCelebi\APIcem\APIcem\obj\Debug\APIcem.pdb
+C:\Users\Cem\Documents\GitHub\inf326-CemCelebi\APIcem\APIcem\obj\Debug\APIcem.Migrations.Initial.resources
+C:\Users\Cem\Documents\GitHub\inf326-CemCelebi\APIcem\APIcem\obj\Debug\APIcem.csproj.GenerateResource.Cache
