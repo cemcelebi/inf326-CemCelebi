@@ -1,0 +1,230 @@
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Owin.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\WebGrease.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\System.Web.Helpers.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\System.Web.Mvc.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\System.Web.Optimization.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\System.Web.Razor.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.Deployment.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.Razor.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\EntityFramework.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\EntityFramework.SqlServer.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+c:\users\cemka\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\MvcMovie.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\EntityFramework.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Owin.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\WebGrease.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\EntityFramework.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\System.Web.Razor.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\EntityFramework.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\MvcMovie.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\EntityFramework.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Owin.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\WebGrease.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\EntityFramework.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\EntityFramework.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+C:\Users\Cem\Desktop\GitHub\inf326-CemCelebi\inf326-CemKa-master\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
